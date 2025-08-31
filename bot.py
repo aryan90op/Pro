@@ -11,7 +11,7 @@ from telegram.ext import (
 
 TOKEN = os.getenv("BOT_TOKEN")
 MASTER_KEY = "Aryan9936"
-BOT_OWNER_ID = 123456789  # Replace with your Telegram ID
+BOT_OWNER_ID = 6497509361  # Replace with your Telegram ID
 USERS_FILE = "allowed_users.json"
 DOWNLOAD_DIR = "downloads"
 pathlib.Path(DOWNLOAD_DIR).mkdir(parents=True, exist_ok=True)
